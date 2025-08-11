@@ -1,0 +1,16 @@
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\bin\Debug\net8.0\EventosCR.BLL.deps.json
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\bin\Debug\net8.0\EventosCR.BLL.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\bin\Debug\net8.0\EventosCR.BLL.pdb
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\bin\Debug\net8.0\EventosCR.Data.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\bin\Debug\net8.0\EventosCR.Data.pdb
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.csproj.AssemblyReference.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.AssemblyInfoInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.AssemblyInfo.cs
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.csproj.CoreCompileInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.sourcelink.json
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosC.AE9E0586.Up2Date
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\refint\EventosCR.BLL.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\EventosCR.BLL.pdb
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.BLL\obj\Debug\net8.0\ref\EventosCR.BLL.dll

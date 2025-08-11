@@ -2,6 +2,7 @@
 using System.Net.Http;
 using System.Text.Json;
 using EventosCR.Web.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EventosCostaRica.MVC.Controllers
 {
@@ -28,35 +29,33 @@ namespace EventosCostaRica.MVC.Controllers
             return View(eventos);
         }
 
+        [Authorize]
         public async Task<IActionResult> Detalle(int id)
         {
+            System.Diagnostics.Debug.WriteLine("#####################################");
             var client = _httpClientFactory.CreateClient("Api");
-            var response = await client.GetAsync($"api/eventos/{id}");
-            var asientos = await client.GetFromJsonAsync<List<AsientoViewModel>>(
-                $"api/Asientos/disponibles/{id}");
 
-            ViewBag.Asientos = asientos ?? new List<AsientoViewModel>();
+            // Obtener detalles del evento
+            var responseEvento = await client.GetAsync($"api/eventos/{id}");
+            if (!responseEvento.IsSuccessStatusCode)
+                return NotFound();
 
-            if (!response.IsSuccessStatusCode)
-            {
-                // Agregar vista de error despues
-                return NotFound(); // o View("Error");
-            }
-
-            var json = await response.Content.ReadAsStringAsync();
-
-            if (string.IsNullOrWhiteSpace(json))
-            {
-                return NotFound(); 
-            }
-
-            var evento = JsonSerializer.Deserialize<EventoViewModel>(json, new JsonSerializerOptions
+            var jsonEvento = await responseEvento.Content.ReadAsStringAsync();
+            var evento = JsonSerializer.Deserialize<EventoViewModel>(jsonEvento, new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true
             });
 
-            return View(evento);
+            // Obtener asientos disponibles
+            var asientos = await client.GetFromJsonAsync<List<AsientoViewModel>>($"api/asientos/disponibles/{id}");
+            ViewBag.AsientosDisponibles = asientos ?? new List<AsientoViewModel>();
 
+            // Determinar si está agotado
+            ViewBag.EstaAgotado = (asientos == null || asientos.Count == 0);
+
+            return View(evento);
         }
+
+
     }
 }

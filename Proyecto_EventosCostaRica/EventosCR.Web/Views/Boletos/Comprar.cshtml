@@ -1,0 +1,32 @@
+﻿@model EventosCR.Web.Models.CompraBoletosViewModel
+
+<h2>Comprar boleto para: @Model.EventoNombre</h2>
+
+@if (Model.Asientos != null && Model.Asientos.Count > 0)
+{
+    <h4>Selecciona un asiento disponible</h4>
+    <form method="post" asp-action="Comprar" asp-controller="Boletos">
+        <input type="hidden" name="EventoId" value="@Model.EventoId" />
+
+        <div class="asientos-grid" style="display: grid; grid-template-columns: repeat(10, 40px); gap: 10px;">
+            @foreach (var asiento in Model.Asientos)
+            {
+                var color = asiento.Disponible ? "green" : "red";
+                var disabled = asiento.Disponible ? "" : "disabled";
+
+                <label style="display: flex; flex-direction: column; align-items: center; cursor: @(asiento.Disponible ? "pointer" : "not-allowed");">
+                    <input type="radio" name="AsientoId" value="@asiento.Id" @disabled style="margin-bottom: 5px;" />
+                    <div style="width: 30px; height: 30px; background-color: @color; border-radius: 4px;"></div>
+                    <small>Fila:@asiento.Fila <br />Asiento:@asiento.Numero</small>
+                </label>
+            }
+        </div>
+
+
+        <button type="submit" class="btn btn-success mt-3">Comprar</button>
+    </form>
+}
+else
+{
+    <p class="text-danger">Lo sentimos, no hay asientos disponibles para este evento.</p>
+}

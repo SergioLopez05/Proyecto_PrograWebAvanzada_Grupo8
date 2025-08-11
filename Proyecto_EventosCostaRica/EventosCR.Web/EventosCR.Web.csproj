@@ -16,4 +16,8 @@
     <None Include="wwwroot\images\romeo-julieta.jpg" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.13.1" />
+  </ItemGroup>
+
 </Project>

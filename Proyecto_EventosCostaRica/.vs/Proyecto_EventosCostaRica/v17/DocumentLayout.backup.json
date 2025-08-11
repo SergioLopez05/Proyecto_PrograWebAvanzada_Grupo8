@@ -3,36 +3,104 @@
   "WorkspaceRootPath": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\usuarioscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\usuarioscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\eventoscr.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\eventoscr.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\services\\apiusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\services\\apiusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\asientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\services\\apiboletoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\services\\apiboletoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\services\\apiauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\services\\apiauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\boletos\\comprar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\boletos\\comprar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\compraboletosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\compraboletosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\boletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\boletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\asientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\asientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\usuarioscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\usuarioscontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\models\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\eventos\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,68 +111,88 @@
       "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\eventos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\boletoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\eventoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\eventoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\asientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\asientoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\eventoscostaricadbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\eventoscostaricadbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\boletos\\misboletos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\boletos\\misboletos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\eventoscr.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\eventoscr.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\context\\eventoscostaricadbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\context\\eventoscostaricadbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}|EventosCR.BLL\\EventosCR.BLL.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.bll\\dtos\\boletodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}|EventosCR.BLL\\EventosCR.BLL.csproj|solutionrelative:eventoscr.bll\\dtos\\boletodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\boletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\boletoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}|EventosCR.BLL\\EventosCR.BLL.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.bll\\eventoscr.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}|EventosCR.BLL\\EventosCR.BLL.csproj|solutionrelative:eventoscr.bll\\eventoscr.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\models\\eventoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\models\\eventoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\helpers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\helpers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}|EventosCR.Web\\EventosCR.Web.csproj|solutionrelative:eventoscr.web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.api\\eventoscr.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F5A3F256-5846-4D57-8C8A-9B1682C19C34}|EventosCR.API\\EventosCR.API.csproj|solutionrelative:eventoscr.api\\eventoscr.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|d:\\universidad\\progra avanzada web\\proyecto_prograwebavanzada_grupo8\\proyecto_eventoscostarica\\eventoscr.data\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28EE0C4-826F-42A0-8141-9D99549E3757}|EventosCR.Data\\EventosCR.Data.csproj|solutionrelative:eventoscr.data\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Models\\EventosCostaRicaContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,12 +201,12 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 440,
-          "SelectedChildIndex": 6,
+          "DockedHeight": 256,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -135,305 +223,227 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "EventosCR.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAgwDwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T07:14:01.263Z",
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "EventosCR.Web\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "EventosCR.Web\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-11T22:29:06.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BoletosController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\BoletosController.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\BoletosController.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\BoletosController.cs",
-              "RelativeToolTip": "EventosCR.API\\Controllers\\BoletosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:21:58.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EventosCR.API.csproj",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\EventosCR.API.csproj",
               "RelativeDocumentMoniker": "EventosCR.API\\EventosCR.API.csproj",
               "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\EventosCR.API.csproj",
               "RelativeToolTip": "EventosCR.API\\EventosCR.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-10T03:27:54.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\appsettings.json",
-              "RelativeDocumentMoniker": "EventosCR.API\\appsettings.json",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\appsettings.json",
-              "RelativeToolTip": "EventosCR.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-10T03:39:16.41Z",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EventosCR.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T07:14:01.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Program.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Program.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Program.cs",
-              "RelativeToolTip": "EventosCR.API\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:36:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:39:13.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoletosController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\BoletosController.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\BoletosController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\BoletosController.cs",
+              "RelativeToolTip": "EventosCR.API\\Controllers\\BoletosController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:37:50.791Z",
+              "WhenOpened": "2025-08-10T04:21:58.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsuariosControler.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\UsuariosControler.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\UsuariosControler.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\UsuariosControler.cs",
-              "RelativeToolTip": "EventosCR.API\\Controllers\\UsuariosControler.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwBIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:20:39.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AsientosController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AsientosController.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\AsientosController.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AsientosController.cs",
-              "RelativeToolTip": "EventosCR.API\\Controllers\\AsientosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:21:24.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Detalle.cshtml",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
-              "RelativeToolTip": "EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T04:49:06.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BoletosController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\BoletosController.cs",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Controllers\\BoletosController.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\BoletosController.cs",
-              "RelativeToolTip": "EventosCR.Web\\Controllers\\BoletosController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T05:01:30.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EventoViewModel.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\EventoViewModel.cs",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\EventoViewModel.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\EventoViewModel.cs",
-              "RelativeToolTip": "EventosCR.Web\\Models\\EventoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:42:19.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventosController.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\EventosController.cs",
-              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\EventosController.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\EventosController.cs",
-              "RelativeToolTip": "EventosCR.API\\Controllers\\EventosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:04:34.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Usuario.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Usuario.cs",
-              "RelativeToolTip": "EventosCR.Data\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:31:12.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Eventos\\Index.cshtml",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Index.cshtml",
-              "RelativeToolTip": "EventosCR.Web\\Views\\Eventos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T03:57:48.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "EventosController.cs",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\EventosController.cs",
               "RelativeDocumentMoniker": "EventosCR.Web\\Controllers\\EventosController.cs",
               "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\EventosController.cs",
               "RelativeToolTip": "EventosCR.Web\\Controllers\\EventosController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T03:55:30.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AsientoViewModel.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\AsientoViewModel.cs",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\AsientoViewModel.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\AsientoViewModel.cs",
-              "RelativeToolTip": "EventosCR.Web\\Models\\AsientoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AsientosController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AsientosController.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\AsientosController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\AsientosController.cs",
+              "RelativeToolTip": "EventosCR.API\\Controllers\\AsientosController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:42:48.4Z",
+              "WhenOpened": "2025-08-10T04:21:24.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoletosController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\BoletosController.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Controllers\\BoletosController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\BoletosController.cs",
+              "RelativeToolTip": "EventosCR.Web\\Controllers\\BoletosController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T05:01:30.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comprar.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Boletos\\Comprar.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Boletos\\Comprar.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Boletos\\Comprar.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Boletos\\Comprar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T18:26:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiBoletoService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiBoletoService.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Services\\ApiBoletoService.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiBoletoService.cs",
+              "RelativeToolTip": "EventosCR.Web\\Services\\ApiBoletoService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T19:42:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiUsuarioService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiUsuarioService.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Services\\ApiUsuarioService.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiUsuarioService.cs",
+              "RelativeToolTip": "EventosCR.Web\\Services\\ApiUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:53:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiAuthService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiAuthService.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Services\\ApiAuthService.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Services\\ApiAuthService.cs",
+              "RelativeToolTip": "EventosCR.Web\\Services\\ApiAuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:34:22.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EventosCR.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:19:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompraBoletosViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\CompraBoletosViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\CompraBoletosViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\CompraBoletosViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\CompraBoletosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:24:03.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "EventosCostaRicaDbContext .cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\EventosCostaRicaDbContext .cs",
-              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\EventosCostaRicaDbContext .cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\EventosCostaRicaDbContext .cs",
-              "RelativeToolTip": "EventosCR.Data\\Models\\EventosCostaRicaDbContext .cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAADwvx8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:31:08.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Evento.cs",
-              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Evento.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Evento.cs",
-              "RelativeToolTip": "EventosCR.Data\\Models\\Evento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:31:02.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Boleto.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Boleto.cs",
-              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Boleto.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Boleto.cs",
-              "RelativeToolTip": "EventosCR.Data\\Models\\Boleto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:30:56.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Asiento.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Asiento.cs",
-              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Asiento.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Asiento.cs",
-              "RelativeToolTip": "EventosCR.Data\\Models\\Asiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:30:46.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EventosCR.Web\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EventosCR.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-10T04:00:39.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Program.cs",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Program.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Program.cs",
-              "RelativeToolTip": "EventosCR.Web\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T03:56:47.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "EventosCR.Web\\Views\\_ViewStart.cshtml",
+              "DocumentIndex": 16,
+              "Title": "BoletoViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\BoletoViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\BoletoViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\BoletoViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\BoletoViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-10T04:56:09.7Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:43:02.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EventosCR.Web",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
-              "RelativeDocumentMoniker": "EventosCR.Web\\EventosCR.Web.csproj",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
-              "RelativeToolTip": "EventosCR.Web\\EventosCR.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-10T04:55:39.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 17,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "EventosCR.Web\\Models\\ErrorViewModel.cs",
@@ -446,33 +456,397 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BoletoViewModel.cs",
-              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\BoletoViewModel.cs",
-              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\BoletoViewModel.cs",
-              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\BoletoViewModel.cs",
-              "RelativeToolTip": "EventosCR.Web\\Models\\BoletoViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "AsientoViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\AsientoViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\AsientoViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\AsientoViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\AsientoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T04:43:02.742Z",
+              "WhenOpened": "2025-08-10T04:42:48.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\LoginResult.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\LoginResult.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\LoginResult.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\LoginResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T17:53:45.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\UsuarioViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\UsuarioViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T20:24:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuariosControler.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\UsuariosControler.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\UsuariosControler.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\UsuariosControler.cs",
+              "RelativeToolTip": "EventosCR.API\\Controllers\\UsuariosControler.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:20:39.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Usuario.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Usuario.cs",
+              "RelativeToolTip": "EventosCR.Data\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:31:12.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Models\\AuthDto.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Models\\AuthDto.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Models\\AuthDto.cs",
+              "RelativeToolTip": "EventosCR.API\\Models\\AuthDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T15:50:57.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Controllers\\EventosController.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "EventosCR.API\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:04:34.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Eventos\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T04:49:06.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Eventos\\Index.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Eventos\\Index.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Eventos\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T03:57:48.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Program.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Program.cs",
+              "RelativeToolTip": "EventosCR.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:56:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EventosCR.Web\\appsettings.json",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\appsettings.json",
+              "RelativeToolTip": "EventosCR.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T17:11:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MisBoletos.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Boletos\\MisBoletos.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Boletos\\MisBoletos.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Boletos\\MisBoletos.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Boletos\\MisBoletos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T19:44:24.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EventosCR.Web\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T16:36:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\LogInViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\LogInViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\LogInViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:32:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:33:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EventosCR.Web.csproj",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
+              "RelativeDocumentMoniker": "EventosCR.Web\\EventosCR.Web.csproj",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
+              "RelativeToolTip": "EventosCR.Web\\EventosCR.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T04:55:39.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventosCostaRicaDbContext .cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Context\\EventosCostaRicaDbContext .cs",
+              "RelativeDocumentMoniker": "EventosCR.Data\\Context\\EventosCostaRicaDbContext .cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Context\\EventosCostaRicaDbContext .cs",
+              "RelativeToolTip": "EventosCR.Data\\Context\\EventosCostaRicaDbContext .cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:31:08.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BoletoDto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.BLL\\DTOs\\BoletoDto.cs",
+              "RelativeDocumentMoniker": "EventosCR.BLL\\DTOs\\BoletoDto.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.BLL\\DTOs\\BoletoDto.cs",
+              "RelativeToolTip": "EventosCR.BLL\\DTOs\\BoletoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T18:53:04.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Boleto.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Boleto.cs",
+              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Boleto.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Boleto.cs",
+              "RelativeToolTip": "EventosCR.Data\\Models\\Boleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:30:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventosCR.API\\Program.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Program.cs",
+              "RelativeToolTip": "EventosCR.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:37:50.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EventosCR.BLL",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.BLL\\EventosCR.BLL.csproj",
+              "RelativeDocumentMoniker": "EventosCR.BLL\\EventosCR.BLL.csproj",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.BLL\\EventosCR.BLL.csproj",
+              "RelativeToolTip": "EventosCR.BLL\\EventosCR.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T18:53:52.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Asiento.cs",
+              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Asiento.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Asiento.cs",
+              "RelativeToolTip": "EventosCR.Data\\Models\\Asiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:30:46.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EventoViewModel.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\EventoViewModel.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Models\\EventoViewModel.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Models\\EventoViewModel.cs",
+              "RelativeToolTip": "EventosCR.Web\\Models\\EventoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:42:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Helpers\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "EventosCR.Web\\Helpers\\TokenHandler.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\Helpers\\TokenHandler.cs",
+              "RelativeToolTip": "EventosCR.Web\\Helpers\\TokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T16:33:38.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "EventosCR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "RelativeToolTip": "EventosCR.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABk3wAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-11T17:23:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "EventosCR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "EventosCR.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwMcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-11T17:23:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "EventosCR.API\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "EventosCR.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwBwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-10T04:14:58.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EventosCR.API\\appsettings.json",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\appsettings.json",
+              "RelativeToolTip": "EventosCR.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T03:39:16.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EventosCR.API.http",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\EventosCR.API.http",
+              "RelativeDocumentMoniker": "EventosCR.API\\EventosCR.API.http",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\EventosCR.API.http",
+              "RelativeToolTip": "EventosCR.API\\EventosCR.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T16:46:01.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventosCR.Data\\Models\\Evento.cs",
+              "ToolTip": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Data\\Models\\Evento.cs",
+              "RelativeToolTip": "EventosCR.Data\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T03:31:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "EventosCostaRicaContext.cs",
               "DocumentMoniker": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.API\\Models\\EventosCostaRicaContext.cs",
               "RelativeDocumentMoniker": "EventosCR.API\\Models\\EventosCostaRicaContext.cs",

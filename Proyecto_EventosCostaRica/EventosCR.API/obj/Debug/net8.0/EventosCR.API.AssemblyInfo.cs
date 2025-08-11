@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventosCR.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2b9fda4b8722e66a7ffc575668bb1424f0c9d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24cecdf65b4ddaa0d8fc06dda30ea15aee37c4b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventosCR.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventosCR.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

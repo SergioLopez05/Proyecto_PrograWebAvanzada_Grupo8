@@ -20,6 +20,22 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Universidad/Progra avanzada web/Proyecto_PrograWebAvanzada_Grupo8/Proyecto_EventosCostaRica/EventosCR.Web/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Progra avanzada web/Proyecto_PrograWebAvanzada_Grupo8/Proyecto_EventosCostaRica/EventosCR.Web/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Progra avanzada web/Proyecto_PrograWebAvanzada_Grupo8/Proyecto_EventosCostaRica/EventosCR.Web/Views/Boletos/Comprar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvc1xDb21wcmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Universidad/Progra avanzada web/Proyecto_PrograWebAvanzada_Grupo8/Proyecto_EventosCostaRica/EventosCR.Web/Views/Boletos/MisBoletos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvc1xNaXNCb2xldG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Universidad/Progra avanzada web/Proyecto_PrograWebAvanzada_Grupo8/Proyecto_EventosCostaRica/EventosCR.Web/Views/Eventos/Detalle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRvc1xEZXRhbGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

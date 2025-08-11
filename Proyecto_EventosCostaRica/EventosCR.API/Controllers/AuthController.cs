@@ -1,71 +1,80 @@
-﻿namespace EventosCR.API.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using EventosCR.API.Models;
+using EventosCR.Data.Models;
+using EventosCR.Data.Context;
+
+
+[Route("api/[controller]")]
+[ApiController]
+public class AuthController : ControllerBase
 {
-    using Microsoft.AspNetCore.Mvc;
-    using Microsoft.Extensions.Configuration;
-    using Microsoft.IdentityModel.Tokens;
-    using System;
-    using System.IdentityModel.Tokens.Jwt;
-    using System.Security.Claims;
-    using System.Text;
+    private readonly EventosCostaRicaDbContext _context;
+    private readonly IConfiguration _config;
 
-    [Route("api/[controller]")]
-    [ApiController]
-    public class AuthController : ControllerBase
+    public AuthController(EventosCostaRicaDbContext context, IConfiguration config)
     {
-        private readonly IConfiguration _config;
+        _context = context;
+        _config = config;
+    }
 
-        public AuthController(IConfiguration config)
+    [HttpPost("register")]
+    public async Task<IActionResult> Register(RegisterRequest request)
+    {
+        if (await _context.Usuarios.AnyAsync(u => u.Email == request.Email))
+            return BadRequest("El email ya está registrado");
+
+        var usuario = new Usuario
         {
-            _config = config;
-        }
-
-        [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginRequest request)
-        {
-            // 🔹 Simulación: en la vida real verificarías contra base de datos
-            if (request.Username == "admin" && request.Password == "1234")
-            {
-                var token = GenerateJwtToken(request.Username, "admin");
-                return Ok(new { token });
-            }
-            else if (request.Username == "cliente" && request.Password == "1234")
-            {
-                var token = GenerateJwtToken(request.Username, "cliente");
-                return Ok(new { token });
-            }
-
-            return Unauthorized();
-        }
-
-        private string GenerateJwtToken(string username, string role)
-        {
-            var jwtSettings = _config.GetSection("Jwt");
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Key"]));
-            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-
-            var claims = new[]
-            {
-            new Claim(JwtRegisteredClaimNames.Sub, username),
-            new Claim(ClaimTypes.Role, role),
-            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+            Nombre = request.Nombre,
+            Email = request.Email,
+            Password = BCrypt.Net.BCrypt.HashPassword(request.Password),
+            Rol = request.Rol,
+            FechaCreacion = DateTime.Now,
+            Activo = true
         };
 
-            var token = new JwtSecurityToken(
-                issuer: jwtSettings["Issuer"],
-                audience: jwtSettings["Audience"],
-                claims: claims,
-                expires: DateTime.Now.AddMinutes(Convert.ToDouble(jwtSettings["ExpireMinutes"])),
-                signingCredentials: creds
-            );
+        _context.Usuarios.Add(usuario);
+        await _context.SaveChangesAsync();
 
-            return new JwtSecurityTokenHandler().WriteToken(token);
-        }
+        return Ok("Usuario registrado con éxito");
     }
 
-    public class LoginRequest
+    [HttpPost("login")]
+    public async Task<IActionResult> Login(LoginRequest request)
     {
-        public string Username { get; set; }
-        public string Password { get; set; }
-    }
+        var usuario = await _context.Usuarios.FirstOrDefaultAsync(u => u.Email == request.Email);
 
+        if (usuario == null || !BCrypt.Net.BCrypt.Verify(request.Password, usuario.Password))
+            return Unauthorized("Credenciales inválidas");
+
+        // Generar token JWT
+        var claims = new[]
+        {
+            new Claim(ClaimTypes.NameIdentifier, usuario.Id.ToString()),
+            new Claim(ClaimTypes.Email, usuario.Email),
+            new Claim(ClaimTypes.Role, usuario.Rol)
+        };
+
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+        var token = new JwtSecurityToken(
+            issuer: _config["Jwt:Issuer"],
+            audience: _config["Jwt:Audience"],
+            claims: claims,
+            expires: DateTime.Now.AddHours(2),
+            signingCredentials: creds
+        );
+
+        return Ok(new
+        {
+            token = new JwtSecurityTokenHandler().WriteToken(token)
+        });
+    }
 }

@@ -52,7 +52,7 @@
     ]
   },
   {
-    "ContainingType": "EventosCR.API.Controllers.AuthController",
+    "ContainingType": "AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
@@ -61,7 +61,23 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "EventosCR.API.Controllers.LoginRequest",
+        "Type": "EventosCR.API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EventosCR.API.Models.RegisterRequest",
         "IsRequired": true
       }
     ],
@@ -77,11 +93,6 @@
     "Parameters": [
       {
         "Name": "usuarioId",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "eventoId",
         "Type": "System.Int32",
         "IsRequired": false
       },
@@ -107,17 +118,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[EventosCR.Data.Models.Boleto, EventosCR.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "EventosCR.API.Controllers.EventosController",
@@ -336,5 +337,31 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EventosCR.API.Controllers.UsuariosController",
+    "Method": "GetByEmail",
+    "RelativePath": "api/Usuarios/email/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EventosCR.Data.Models.Usuario",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

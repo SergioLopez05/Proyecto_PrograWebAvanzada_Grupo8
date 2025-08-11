@@ -1,0 +1,34 @@
+﻿@model List<EventosCR.Web.Models.BoletoViewModel>
+
+<h2>Mis Boletos</h2>
+
+@if (Model.Count == 0)
+{
+    <p>No tienes boletos comprados aún.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Evento</th>
+                <th>Fecha</th>
+                <th>Fila</th>
+                <th>Asiento</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var boleto in Model)
+            {
+                <tr>
+                    <td>@boleto.NombreEvento</td>
+                    <td>@boleto.FechaEvento.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@boleto.Fila</td>
+                    <td>@boleto.Numero</td>
+                    <td>@boleto.Precio.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

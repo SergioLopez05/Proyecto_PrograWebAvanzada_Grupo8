@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EventosCR.Data.Models;
+using EventosCR.Data.Context;
 
 namespace EventosCR.API.Controllers
 {

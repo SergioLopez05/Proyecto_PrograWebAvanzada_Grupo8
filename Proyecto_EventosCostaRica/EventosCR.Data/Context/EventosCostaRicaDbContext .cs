@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using EventosCR.Data.Models;
 using Microsoft.EntityFrameworkCore;
-namespace EventosCR.Data.Models;
+namespace EventosCR.Data.Context;
 
 public partial class EventosCostaRicaDbContext : DbContext
 {
@@ -48,7 +49,6 @@ public partial class EventosCostaRicaDbContext : DbContext
         {
             entity.HasKey(e => e.Id).HasName("PK__Boletos__3214EC0708113EED");
 
-            entity.ToTable(tb => tb.HasTrigger("tr_ActualizarAsiento"));
 
             entity.HasIndex(e => e.AsientoId, "UQ__Boletos__04904D11B5760BB8").IsUnique();
 

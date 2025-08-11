@@ -1,3 +1,11 @@
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.csproj.AssemblyReference.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.AssemblyInfoInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.AssemblyInfo.cs
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.csproj.CoreCompileInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.sourcelink.json
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\appsettings.Development.json
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\appsettings.json
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.API.staticwebassets.endpoints.json
@@ -8,7 +16,9 @@ D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_Ev
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.API.pdb
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Azure.Core.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Humanizer.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Build.Locator.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -33,6 +43,7 @@ D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_Ev
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -146,16 +157,10 @@ D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_Ev
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.BLL.dll
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.Data.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.BLL.pdb
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\EventosCR.Data.pdb
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.csproj.AssemblyReference.cache
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.AssemblyInfoInputs.cache
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.AssemblyInfo.cs
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.csproj.CoreCompileInputs.cache
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.sourcelink.json
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\scopedcss\bundle\EventosCR.API.styles.css
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\staticwebassets.development.json
@@ -173,5 +178,3 @@ D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_Ev
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.pdb
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\EventosCR.API.genruntimeconfig.cache
 D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\obj\Debug\net8.0\ref\EventosCR.API.dll
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.API\bin\Debug\net8.0\Microsoft.Identity.Abstractions.dll

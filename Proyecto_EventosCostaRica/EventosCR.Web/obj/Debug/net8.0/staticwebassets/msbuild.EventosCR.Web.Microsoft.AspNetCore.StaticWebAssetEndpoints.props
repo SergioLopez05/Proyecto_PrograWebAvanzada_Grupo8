@@ -1,28 +1,28 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/css/site.c2tiyv64ts.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/EventosCR.Web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 02:34:21 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventosCR.Web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 02:34:21 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c\u002BT1oQanf3BA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2794"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c\u002BT1oQanf3BA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 22:31:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/css/site.ymdy9aw0gs.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ymdy9aw0gs"},{"Name":"integrity","Value":"sha256-dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c\u002BT1oQanf3BA="},{"Name":"label","Value":"_content/EventosCR.Web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2794"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c\u002BT1oQanf3BA=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 22:31:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventosCR.Web/EventosCR.Web.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventosCR.Web.fe1rf26186.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 05:29:49 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 20:11:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventosCR.Web/EventosCR.Web.fe1rf26186.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EventosCR.Web.fe1rf26186.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fe1rf26186"},{"Name":"integrity","Value":"sha256-KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48="},{"Name":"label","Value":"_content/EventosCR.Web/EventosCR.Web.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 05:29:49 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KWnOtmK\u002BebXsUXoC/W9oU805a0g9xpkXdIpedsB1f48=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 20:11:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventosCR.Web/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -48,17 +48,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mysav64idv"},{"Name":"integrity","Value":"sha256-4jd4vReHdyuGPLVlBWZ67KPA6VoKgGi3AFuAcQFZQxQ="},{"Name":"label","Value":"_content/EventosCR.Web/images/concierto-rock.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95988"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224jd4vReHdyuGPLVlBWZ67KPA6VoKgGi3AFuAcQFZQxQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 05:49:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/images/festival-jazz.jidagov8il.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\festival-jazz.webp'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/images/festival-jazz.15h0nwbc5c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\festival-jazz.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jidagov8il"},{"Name":"integrity","Value":"sha256-FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840="},{"Name":"label","Value":"_content/EventosCR.Web/images/festival-jazz.webp"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164562"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 05:50:08 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"15h0nwbc5c"},{"Name":"integrity","Value":"sha256-OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk="},{"Name":"label","Value":"_content/EventosCR.Web/images/festival-jazz.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"148297"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 22:34:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/images/festival-jazz.webp">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\festival-jazz.webp'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/EventosCR.Web/images/festival-jazz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\festival-jazz.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164562"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 05:50:08 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"148297"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 11 Aug 2025 22:34:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/EventosCR.Web/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

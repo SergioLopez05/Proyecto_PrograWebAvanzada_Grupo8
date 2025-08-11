@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EventosCR.Data.Models;
+using EventosCR.Data.Context;
 
 namespace EventosCR.API.Controllers
 {
@@ -56,5 +57,40 @@ namespace EventosCR.API.Controllers
             await _context.SaveChangesAsync();
             return NoContent();
         }
+        //[HttpGet("email/{email}")]
+        //public async Task<ActionResult<Usuario>> GetUsuarioByEmail(string email)
+        //{
+        //    if (string.IsNullOrWhiteSpace(email))
+        //        return BadRequest("El email no puede estar vacío");
+
+        //    var usuario = await _context.Usuarios
+        //        .FirstOrDefaultAsync(u => u.Email.ToLower() == email.ToLower());
+
+        //    if (usuario == null)
+        //        return NotFound($"No se encontró ningún usuario con el email: {email}");
+
+        //    return usuario;
+        //}
+
+        [HttpGet("email/{email}")]
+        public async Task<ActionResult<Usuario>> GetByEmail(string email)
+        {
+            var usuario = await _context.Usuarios
+                .Where(u => u.Email == email)
+                .Select(u => new Usuario
+                {
+                    Id = u.Id,
+                    Nombre = u.Nombre,
+                    Email = u.Email
+                })
+                .FirstOrDefaultAsync();
+
+            if (usuario == null)
+                return NotFound();
+
+            return Ok(usuario);
+        }
+
+
     }
 }

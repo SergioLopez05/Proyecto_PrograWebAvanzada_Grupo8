@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosCR.API", "EventosCR.API\EventosCR.API.csproj", "{F5A3F256-5846-4D57-8C8A-9B1682C19C34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosCR.Data", "EventosCR.Data\EventosCR.Data.csproj", "{F28EE0C4-826F-42A0-8141-9D99549E3757}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosCR.Web", "EventosCR.Web\EventosCR.Web.csproj", "{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventosCR.BLL", "EventosCR.BLL\EventosCR.BLL.csproj", "{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6153460A-9E95-4F34-BCE7-2DDD7FB9AF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182FEA8D-B162-4C2F-AEB8-0BB0886190DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

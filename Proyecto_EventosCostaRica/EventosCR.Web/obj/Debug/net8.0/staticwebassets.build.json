@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "njsiBuRo/WDOeL1wQX+S4D2wP7/it+R+MZFIuTDMCNs=",
+  "Hash": "KX3Apx7rugSm4dPZXZx+O7LmqltQAxy+WmUTB8ctuaM=",
   "Source": "EventosCR.Web",
   "BasePath": "_content/EventosCR.Web",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "ymdy9aw0gs",
+      "Integrity": "dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c+T1oQanf3BA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "wwwroot\\images\\concierto-rock.jpg"
     },
     {
-      "Identity": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.webp",
+      "Identity": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.jpg",
       "SourceId": "EventosCR.Web",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\",
       "BasePath": "_content/EventosCR.Web",
-      "RelativePath": "images/festival-jazz#[.{fingerprint}]?.webp",
+      "RelativePath": "images/festival-jazz#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -136,11 +136,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jidagov8il",
-      "Integrity": "FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840=",
+      "Fingerprint": "15h0nwbc5c",
+      "Integrity": "OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\festival-jazz.webp"
+      "OriginalItemSpec": "wwwroot\\images\\festival-jazz.jpg"
     },
     {
       "Identity": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\js\\site.js",
@@ -1363,51 +1363,6 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 02:34:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
-        }
-      ]
-    },
-    {
       "Route": "css/site.css",
       "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1418,7 +1373,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "2794"
         },
         {
           "Name": "Content-Type",
@@ -1426,11 +1381,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c+T1oQanf3BA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 02:34:21 GMT"
+          "Value": "Mon, 11 Aug 2025 22:31:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1440,7 +1395,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c+T1oQanf3BA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ymdy9aw0gs.css",
+      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2794"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c+T1oQanf3BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 11 Aug 2025 22:31:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ymdy9aw0gs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dnX0tJ2KNrmmFB3EAGT8qDT3hfbgI47c+T1oQanf3BA="
         }
       ]
     },
@@ -1467,7 +1467,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:29:49 GMT"
+          "Value": "Mon, 11 Aug 2025 20:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1504,7 +1504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:29:49 GMT"
+          "Value": "Mon, 11 Aug 2025 20:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1549,7 +1549,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:29:49 GMT"
+          "Value": "Mon, 11 Aug 2025 20:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1594,7 +1594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:29:49 GMT"
+          "Value": "Mon, 11 Aug 2025 20:11:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1773,8 +1773,8 @@
       ]
     },
     {
-      "Route": "images/festival-jazz.jidagov8il.webp",
-      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.webp",
+      "Route": "images/festival-jazz.15h0nwbc5c.jpg",
+      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1783,19 +1783,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "164562"
+          "Value": "148297"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/webp"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840=\""
+          "Value": "\"OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:50:08 GMT"
+          "Value": "Mon, 11 Aug 2025 22:34:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1805,21 +1805,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jidagov8il"
+          "Value": "15h0nwbc5c"
         },
         {
           "Name": "label",
-          "Value": "images/festival-jazz.webp"
+          "Value": "images/festival-jazz.jpg"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840="
+          "Value": "sha256-OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk="
         }
       ]
     },
     {
-      "Route": "images/festival-jazz.webp",
-      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.webp",
+      "Route": "images/festival-jazz.jpg",
+      "AssetFile": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\wwwroot\\images\\festival-jazz.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1828,19 +1828,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "164562"
+          "Value": "148297"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/webp"
+          "Value": "image/jpeg"
         },
         {
           "Name": "ETag",
-          "Value": "\"FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840=\""
+          "Value": "\"OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 10 Aug 2025 05:50:08 GMT"
+          "Value": "Mon, 11 Aug 2025 22:34:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1850,7 +1850,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FT3kMelDXsD2JPMjmuHbgHjFhhazJGvaRlMQ62sO840="
+          "Value": "sha256-OwKYB8bgCVfnWtslaUdX46MOKd96409dq7zzE4Xl8Kk="
         }
       ]
     },

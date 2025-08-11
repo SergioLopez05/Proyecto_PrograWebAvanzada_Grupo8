@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EventosCR.Data.Models;
+using Microsoft.AspNetCore.Authorization;
+using EventosCR.Data.Context;
 
 namespace EventosCR.API.Controllers
 {
@@ -15,7 +17,10 @@ namespace EventosCR.API.Controllers
             _context = context;
         }
 
+
+        // GET público
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<Evento>>> GetEventos()
         {
             return await _context.Eventos
@@ -24,7 +29,11 @@ namespace EventosCR.API.Controllers
                                  .ToListAsync();
         }
 
+
+
+        // GET detalle público
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<ActionResult<Evento>> GetEvento(int id)
         {
             var evento = await _context.Eventos.FindAsync(id);
@@ -32,7 +41,9 @@ namespace EventosCR.API.Controllers
             return evento;
         }
 
+        // Crear - solo Admin
         [HttpPost]
+        [Authorize(Roles = "Administrador")]
         public async Task<ActionResult<Evento>> CreateEvento(Evento evento)
         {
             _context.Eventos.Add(evento);
@@ -40,7 +51,9 @@ namespace EventosCR.API.Controllers
             return CreatedAtAction(nameof(GetEvento), new { id = evento.Id }, evento);
         }
 
+        // Editar - solo Admin
         [HttpPut("{id}")]
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> UpdateEvento(int id, Evento evento)
         {
             if (id != evento.Id) return BadRequest();
@@ -49,7 +62,9 @@ namespace EventosCR.API.Controllers
             return NoContent();
         }
 
+        // Borrar - solo Admin
         [HttpDelete("{id}")]
+        [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> DeleteEvento(int id)
         {
             var evento = await _context.Eventos.FindAsync(id);
