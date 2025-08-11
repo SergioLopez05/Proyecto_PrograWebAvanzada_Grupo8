@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "2YfkXygKhl4=",
+  "dgSpecHash": "FUVT8+QI9+A=",
   "success": true,
-  "projectFilePath": "D:\\Universidad\\Progra avanzada web\\Proyecto_PrograWebAvanzada_Grupo8\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
+  "projectFilePath": "C:\\Users\\jerem\\Documents\\Proyecto Progra\\Proyecto_EventosCostaRica\\EventosCR.Web\\EventosCR.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.identity.abstractions\\9.3.0\\microsoft.identity.abstractions.9.3.0.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.13.1\\microsoft.identitymodel.abstractions.8.13.1.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.13.1\\microsoft.identitymodel.jsonwebtokens.8.13.1.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.identitymodel.logging\\8.13.1\\microsoft.identitymodel.logging.8.13.1.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.13.1\\microsoft.identitymodel.tokens.8.13.1.nupkg.sha512",
-    "C:\\Users\\sergi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.13.1\\system.identitymodel.tokens.jwt.8.13.1.nupkg.sha512"
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.identity.abstractions\\9.3.0\\microsoft.identity.abstractions.9.3.0.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.13.1\\microsoft.identitymodel.abstractions.8.13.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.13.1\\microsoft.identitymodel.jsonwebtokens.8.13.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.identitymodel.logging\\8.13.1\\microsoft.identitymodel.logging.8.13.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.13.1\\microsoft.identitymodel.tokens.8.13.1.nupkg.sha512",
+    "C:\\Users\\jerem\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.13.1\\system.identitymodel.tokens.jwt.8.13.1.nupkg.sha512"
   ],
   "logs": []
 }

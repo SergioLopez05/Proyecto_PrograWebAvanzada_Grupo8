@@ -1,0 +1,40 @@
+﻿@model List<EventosCR.Web.Models.UsuarioViewModel>
+
+<h2>Usuarios</h2>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Nuevo usuario</a>
+</p>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Rol</th>
+            <th>Activo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var u in Model)
+            {
+                <tr>
+                    <td>@u.Id</td>
+                    <td>@u.Nombre @u.Apellidos</td>
+                    <td>@u.Email</td>
+                    <td>@u.Rol</td>
+                    <td>@(u.Activo ? "Sí" : "No")</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@u.Id" class="btn btn-sm btn-info">Detalles</a>
+                        <a asp-action="Edit" asp-route-id="@u.Id" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-action="Delete" asp-route-id="@u.Id" class="btn btn-sm btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
