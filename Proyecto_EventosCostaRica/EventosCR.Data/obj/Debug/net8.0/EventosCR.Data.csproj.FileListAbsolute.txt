@@ -1,0 +1,15 @@
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\bin\Debug\net8.0\EventosCR.Data.deps.json
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\bin\Debug\net8.0\EventosCR.Data.runtimeconfig.json
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\bin\Debug\net8.0\EventosCR.Data.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\bin\Debug\net8.0\EventosCR.Data.pdb
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.csproj.AssemblyReference.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.AssemblyInfoInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.AssemblyInfo.cs
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.csproj.CoreCompileInputs.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.sourcelink.json
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\refint\EventosCR.Data.dll
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.pdb
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\EventosCR.Data.genruntimeconfig.cache
+D:\Universidad\Progra avanzada web\Proyecto_PrograWebAvanzada_Grupo8\Proyecto_EventosCostaRica\EventosCR.Data\obj\Debug\net8.0\ref\EventosCR.Data.dll

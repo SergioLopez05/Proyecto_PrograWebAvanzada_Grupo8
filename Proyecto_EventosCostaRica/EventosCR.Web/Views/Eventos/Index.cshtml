@@ -1,0 +1,19 @@
+﻿@model List<EventosCR.Web.Models.EventoViewModel>
+
+<h2>Próximos Eventos</h2>
+<div class="row">
+    @foreach (var evento in Model)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <img src="@evento.Banner" class="card-img-top" style="height: 500px; object-fit: cover;" />
+                <div class="card-body">
+                    <h5 class="card-title">@evento.Nombre</h5>
+                    <p>@evento.Lugar</p>
+                    <p>@evento.FechaEvento.ToString("dd/MM/yyyy HH:mm")</p>
+                    <a href="@Url.Action("Detalle", "Eventos", new { id = evento.Id })" class="btn btn-primary">Ver detalles</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

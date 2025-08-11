@@ -1,0 +1,34 @@
+﻿@model EventosCR.Web.Models.EventoViewModel
+@{
+    var asientos = ViewBag.Asientos as List<EventosCR.Web.Models.AsientoViewModel>;
+}
+
+<h2>@Model.Nombre</h2>
+<img src="@Model.Banner" style="width: 300px;" />
+<p>@Model.Descripcion</p>
+<p>Lugar: @Model.Lugar</p>
+<p>Fecha: @Model.FechaEvento.ToString("dd/MM/yyyy HH:mm")</p>
+<p>Precio: ₡@Model.PrecioEntrada</p>
+
+@if (asientos != null && asientos.Count > 0)
+{
+        <h4>Selecciona un asiento</h4>
+        <form method="post" action="@Url.Action("Comprar", "Boletos")">
+            <input type="hidden" name="EventoId" value="@Model.Id" />
+            <div>
+            @foreach (var asiento in asientos)
+            {
+                        <label>
+                            <input type="radio" name="AsientoId" value="@asiento.Id" /> Fila @asiento.Fila - Asiento @asiento.Numero
+                        </label>
+
+                <br />
+            }
+            </div>
+            <button type="submit" class="btn btn-success">Comprar</button>
+        </form>
+}
+else
+{
+        <p class="text-danger">Evento agotado</p>
+}

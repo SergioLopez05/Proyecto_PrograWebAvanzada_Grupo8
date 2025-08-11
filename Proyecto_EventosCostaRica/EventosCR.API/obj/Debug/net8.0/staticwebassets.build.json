@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dNfzoJwtsVM9ugataTJgzC9gGaLIMTm8LLbjACgUFC8=",
+  "Source": "EventosCR.API",
+  "BasePath": "_content/EventosCR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
