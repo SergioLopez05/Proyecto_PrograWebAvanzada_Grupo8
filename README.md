@@ -1,5 +1,11 @@
 # Proyecto_PrograWebAvanzada_Grupo8
 
+Sergio López Venegas 
+Libny Hernandez Barreda 
+Jeremy Robles Chinchilla 
+
+
+
 -- Script para crear la base de datos EventosCostaRica
 CREATE DATABASE EventosCostaRica;
 USE EventosCostaRica;
